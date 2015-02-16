@@ -1,0 +1,26 @@
+mapIndex 0
+  30 = &#x2019;    RIGHT SINGLE QUOTATION MARK
+  33 = &#x2018;    LEFT SINGLE QUOTATION MARK
+
+
+mapIndex 1 - shift
+  20 = #
+  30 = &#x201D;    RIGHT DOUBLE QUOTATION MARK
+  33 = &#x201C;    LEFT DOUBLE QUOTATION MARK
+
+mapIndex 2 - caps
+
+mapIndex 3 - option
+  20 = £
+  30 = ]
+  33 = [
+
+mapIndex 4 - shift-option
+  30 = }
+  33 = {
+
+mapIndex 5 - caps-option
+
+mapIndex 6 - command-option
+
+mapIndex 7 - control
