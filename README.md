@@ -10,4 +10,9 @@ This is an English keyboard layout for authors instead of programmers. In partic
 - £ (shift-3) ==> # (because # is used for Markdown headings)
 - £ is option-3
 
-Roughly, the [ and ] keys have had their standard option- and non-option- bindings swapped, although for some idiotic reason Apple originally put the single inverted commas on one key (with and without shift) and the double inverted commas on the key next to it, whereas all other pairs of open- and close- delimiters are on keys next to each other. This layout makes much more sense, at least to me.
+Roughly, the [ and ] keys have had their standard option- and non-option- bindings swapped, although for some unfathomable reason Apple originally put the single inverted commas on one key (with and without shift) and the double inverted commas on the key next to it, whereas all other pairs of open- and close- delimiters are on keys next to each other. To me this layout makes much more sense.
+
+## Installation
+To install:
+
+`cp -rp English.bundle ~/Library/Keyboard\ Layouts/`
