@@ -1,21 +1,24 @@
+British Keyboard Layout with following modifications:
+
 mapIndex 0
+  10 = &#x00A0;    NO-BREAK SPACE
   30 = &#x2019;    RIGHT SINGLE QUOTATION MARK
   33 = &#x2018;    LEFT SINGLE QUOTATION MARK
 
-
 mapIndex 1 - shift
-  20 = #
+  10 = &#x2009;    THIN SPACE
   30 = &#x201D;    RIGHT DOUBLE QUOTATION MARK
   33 = &#x201C;    LEFT DOUBLE QUOTATION MARK
 
 mapIndex 2 - caps
 
 mapIndex 3 - option
-  20 = £
+  10 = &#x200A;    HAIR SPACE
   30 = ]
   33 = [
 
 mapIndex 4 - shift-option
+  10 = &#x2003;    EM SPACE
   30 = }
   33 = {
 
